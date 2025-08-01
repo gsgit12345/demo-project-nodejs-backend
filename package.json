@@ -1,0 +1,23 @@
+{
+  "name": "demo-project-nodejs-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsgit12345/demo-project-nodejs-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gsgit12345/demo-project-nodejs-backend/issues"
+  },
+  "homepage": "https://github.com/gsgit12345/demo-project-nodejs-backend#readme",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
