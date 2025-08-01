@@ -1,0 +1,16 @@
+If your value resets to 1 on every run and you want it to persist across executions, you need to:
+
+Store it in a file, database, or cache (e.g., Redis).
+
+Read it at startup, write it back when updated.
+
+Would you like a version of this that writes event counts to a file and persists them?
+
+
+
+
+
+
+
+
+
