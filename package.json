@@ -19,5 +19,8 @@
   "homepage": "https://github.com/gsgit12345/demo-project-nodejs-backend#readme",
   "dependencies": {
     "nodemon": "^3.1.10"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3"
   }
 }
